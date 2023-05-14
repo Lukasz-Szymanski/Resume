@@ -4,7 +4,6 @@ My personal online resume.
 
 
 
-
 #### Inspiration 
 This project was inspired by an article written by Dennis Ivy
 
